@@ -1,0 +1,29 @@
+# keys
+.env
+*.env
+# Python
+.venv/
+__pycache__/
+*.pyc
+# working folders and outputs
+projects/
+exports/
+work/
+renders/
+snapshots/
+.DS_Store
+# media, LUTs and fonts never belong in this repo
+*.mp4
+*.mov
+*.mxf
+*.wav
+*.m4a
+*.mp3
+*.png
+*.jpg
+*.webp
+*.cube
+*.ttf
+*.otf
+*.woff
+*.woff2

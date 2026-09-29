@@ -1,0 +1,29 @@
+{
+  "name": "",
+  "source": "",
+  "window": [0, 0],
+  "fps": 25,
+  "transcription": {"engine": "elevenlabs", "whisper_model": "small.en", "language": null},
+  "grade": {"camera_lut": null, "look_lut": null, "vignette": 0},
+  "speakers": {},
+  "people": {},
+  "top": "L",
+  "seam": "#FFFFFF",
+  "face_fallback": {},
+  "captions": {
+    "fixes": {},
+    "merge": [],
+    "style": {
+      "font": "Inter", "font_file": null, "weight": 800, "uppercase": false,
+      "size_wide": 64, "size_reel": 70, "colour": "#FFFFFF", "highlight": "#FFD84D", "outline": "#000000",
+      "max_words": 4, "max_chars": 26, "position_wide": 0.86, "position_reel": 0.72
+    }
+  },
+  "claims": "general",
+  "cutting": {"auto": true},
+  "loudness": {"reel": -14, "wide": -14},
+  "logo": null,
+  "templates_dir": null,
+  "edits": {},
+  "design": {}
+}
